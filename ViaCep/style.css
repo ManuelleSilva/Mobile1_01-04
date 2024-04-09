@@ -15,7 +15,7 @@ padding: 0;
 .sidebar{
 width: 330px;
 height: 100vh;
-background-color:rgb(128, 223, 167);
+background-color:rgb(132, 32, 190);
 }
 .form{
 display: flex;
@@ -24,7 +24,7 @@ padding:25px 0 0 25px;
 gap: 12px;
 }
 
-.cep{
+.input{
 background-color: rgb(50, 54, 54);
 padding: 8px 12px;
 color: white;
@@ -37,7 +37,7 @@ max-width: 240px;
 }
 
 .btn{
-background-color: aqua;
+background-color: rgb(37, 194, 194);
 max-width: 170px;
 padding: 7px 12px;
 height: 30px;
@@ -50,7 +50,6 @@ font-weight: bold;
 }
 
 .listsub{
-position: absolute;
 list-style: none;
 font-weight: bold;
 font-size: 18px;
@@ -61,7 +60,7 @@ color: white;
     content: "";
     position: relative;
     display: block;
-    background-color: brown;
+    background-color: rgb(255, 123, 0);
     width: 5px;
     height: 5px;
     border-radius: 50%;
